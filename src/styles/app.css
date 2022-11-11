@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    background-color: rgb(60, 56, 71);
+}
+
+.typeBox {
+    height: 50px;
+    background-color: rgb(39, 38, 46);
+    margin: auto;
+    margin-top: 12.5%;
+    color:aliceblue;
+    font-size: 300%;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.IntBtn {
+    margin:auto;
+    width:75px;
+    height:75px;
+    border:0;
+    border-radius: 10px;
+    background-color: rgb(39, 38, 46);
+    color:azure;
+    font-size: 125%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px;
+    cursor: pointer;
+    transition: 0.05s;
+}
+
+.IntBtn:active {
+    background-color: rgb(23, 23, 27);
+}
+
+.base {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
