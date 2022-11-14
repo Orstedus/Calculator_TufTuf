@@ -12,4 +12,6 @@ When you press button of result, code makes eval of string and changes content o
 # Bugs?
 I did it simple, so code has bugs.You can devide by 0, i will be infinity. You can get undefined in special situations, but if you use basic operations you will get normal answers.
 
+### ** does power (3**2=9)
+
 ## Hope you like it!
